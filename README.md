@@ -41,7 +41,7 @@ This project was built to practice modern backend development principles includi
 ## 📂 Project Structure
 
 ```
-authenticated-tasks-api/
+authenticated-tasks-rest-api/
 │
 ├── alembic/
 │   ├── versions/
