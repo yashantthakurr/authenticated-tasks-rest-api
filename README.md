@@ -73,9 +73,9 @@ authenticated-tasks-api/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/authenticated-tasks-api.git
+git clone https://github.com/yashantthakurr/authenticated-tasks-rest-api
 
-cd authenticated-tasks-api
+cd authenticated-tasks-rest-api
 ```
 
 ### Create a virtual environment
